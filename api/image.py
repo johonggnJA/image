@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://discord.com/invite/blurredd" # Link to the webpage to redirect to 
+        "page": "https://ih1.redbubble.net/image.3322917094.7477/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
